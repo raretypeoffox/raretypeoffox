@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raretypeoffox
-- 👋 I enjoy working in Python, Lua and C
-- 🌱 I’m currently learning ML/LLM & Rust
+- 👋 I enjoy working in Rust, C, ASM, Python, and Lua
+- 🌱 I’m currently learning ML/LLM, Rust, ASM (x86, RISC-V)
 
 
 
